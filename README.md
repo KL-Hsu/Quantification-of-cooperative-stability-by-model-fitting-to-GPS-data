@@ -1,7 +1,10 @@
 # Quantification of cooperative stability by model fitting to FACS data 
 Authors: Kuan-Lun Hsu and Chen-Hsiang Yeang
+
 Last updated date: 2024/5/30 
+
 Cite this work:
+
 Hsu, KL. & Yeang, CH. QCS: Quantification of cooperative stablization by model fitting to GPS data v1.0.0 [Computer software] Zenodo https://zenodo.org/doi/10.5281/zenodo.11395486
 
 ## Description
