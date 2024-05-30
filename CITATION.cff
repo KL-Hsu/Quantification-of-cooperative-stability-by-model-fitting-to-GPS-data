@@ -1,5 +1,7 @@
 cff-version: 1.0.0
-message: "If you use this software, please cite it as below."
+message: "If you use this software, please cite it as below.
+Hsu, KL. & Yeang, CH. QCS: Quantification of cooperative stablization by model fitting to GPS data v1.0.0 [Computer software] Zenodo https://zenodo.org/doi/10.5281/zenodo.11395486"
+
 authors:
 - family-names: Hsu
   given-names: Kuan-Lun
